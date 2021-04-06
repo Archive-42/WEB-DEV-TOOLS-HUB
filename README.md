@@ -4,7 +4,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e8b697f0-6fd1-41ed-8076-acc78350138b/deploy-status)](https://app.netlify.com/sites/website-development-utilities-hub/deploys)
 
-hi
+
 <!--- These are examples. See https://shields.io for others or to customize this set of shields. You might want to include dependencies, project status and licence info here --->
 ![GitHub repo size](https://img.shields.io/github/repo-size/bgoonz/README-template.md)
 ![GitHub contributors](https://img.shields.io/github/contributors/bgoonz/README-template.md)
