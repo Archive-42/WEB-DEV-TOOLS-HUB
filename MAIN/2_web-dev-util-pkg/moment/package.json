@@ -82,7 +82,7 @@
     "karma-chrome-launcher": "latest",
     "karma-firefox-launcher": "latest",
     "karma-qunit": "latest",
-    "karma-sauce-launcher": "4.1.4",
+    "karma-sauce-launcher": "4.3.6",
     "load-grunt-tasks": "latest",
     "lodash": ">=4.17.19",
     "node-qunit": "latest",
